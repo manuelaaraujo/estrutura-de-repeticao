@@ -1,0 +1,15 @@
+html{
+    height: 100%;
+}
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+form{
+    text-align: center;
+}
+body{
+    background-color:lightcoral;
+    background: linear-gradient(white, lightcoral);
+}
